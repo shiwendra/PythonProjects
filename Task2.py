@@ -1,1 +1,0 @@
-# Task 2: Password Manager API
