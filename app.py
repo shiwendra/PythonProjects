@@ -72,7 +72,5 @@ def delete_password(password_id):
 
     passwords = password_list
     return jsonify({'message': 'Password deleted successfully'})
-
-
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='localhost', port=5000) 
