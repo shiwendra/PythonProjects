@@ -45,6 +45,10 @@ python app.py
 http://localhost:5000
 ```
 
+## Screenshots
+
+![alt text](image.png)
+
 ## API Endpoints
 
 ### Get all passwords
